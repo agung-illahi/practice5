@@ -1,0 +1,2 @@
+print('satu')
+print('dua')
